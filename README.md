@@ -10,20 +10,21 @@ This list does not contain any affiliate links.
 - [Storybook](https://storybook.js.org/) - An application to isolate the creation of UI components.
 - [Chromatic](https://www.chromatic.com/) - An application to automate the integration of ui components
 - [Datadog](https://www.datadoghq.com/) - A platform for infrastructure and application monitoring in the web.
-- [Matter.js](https://brm.io/matter-js/) - A 2D physics engine for JavaScript.
-- [Three.js](https://threejs.org/) - A 3D physics engine for JavaScript.
-- [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) - A javascript framework to make advanced scroll.
 - [Ahrefs](https://ahrefs.com) - A tool for the management of its web SEO.
 - [Semrush](https://www.semrush.com/) - Also a tool for the management of its web SEO.
 - [iubenda](https://www.iubenda.com) - A company that creates Policy, Terms, Cookies policy for professionals.
 - [Plyr](https://plyr.io/) - A beautiful web player.
 - [FlowPlayer](https://flowplayer.com/) - Another web player.
-- [Chart.js](https://www.chartjs.org/) - A great javascript framework that allows you to make statistics widgets easily.
 - [Axeptio](https://www.axeptio.eu) - A tool for managing the approval of cookies on a site.
 - [Drip](https://www.drip.com/) - A tool for a better management of marketing tools.
 - [SecurityTrails](https://securitytrails.com) - A great tool for reverse DNS and IP.
 - [Postcards](https://designmodo.com/postcards/) - An drag & drop email builder. 
 - [Passbase](https://passbase.com/) - An application that makes it easy to verify a user's identity.
+### Library
+- [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) - A javascript framework to make advanced scroll.
+- [Matter.js](https://brm.io/matter-js/) - A 2D physics engine for JavaScript.
+- [Three.js](https://threejs.org/) - A 3D physics engine for JavaScript.
+- [Chart.js](https://www.chartjs.org/) - A great javascript framework that allows you to make statistics widgets easily.
 - [Fancybox](https://fancyapps.com/fancybox/3/) - A lightweight JavaScript lightbox library.
 - [CountUp.js](https://inorganik.github.io/countUp.js/) - A lightweight JavaScript framework to create a count animation easily.
 - [Flatpickr](https://flatpickr.js.org/) - A lightweight JavaScript datetime picker.
