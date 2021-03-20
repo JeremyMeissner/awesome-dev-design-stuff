@@ -75,6 +75,7 @@ This list does not contain any affiliate links.
 
 ## Music
 - [jsfxr](http://sfxr.me/) - A tool to create sounds for small retro style games.
+- [Bosca Ceoil](https://boscaceoil.net/) - A tool to create music for small retro style games.
 
 ## Hack
 - [Sherlock Project](https://sherlock-project.github.io/) - A tool to search for accounts in social networks that have the same username.
